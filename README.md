@@ -27,7 +27,7 @@ The solution is centered on capturing real-time data from vehicle systems and en
  - The intent is to transform raw vehicle data into decision-oriented insights, enabling proactive actions across stakeholders.
 
 
-**Solution Architecture**
+**Solution Architecture - High Level Design**
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/72782551-e236-4d40-9cf3-b4d623e8a931" />
 
