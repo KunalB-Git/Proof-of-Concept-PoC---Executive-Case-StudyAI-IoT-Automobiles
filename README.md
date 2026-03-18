@@ -1,4 +1,4 @@
-# AI-IoT-Automobiles--> Proof-of-Concept (PoC) -- Executive Case-Study
+# AI-IoT-Automobiles--> Proof-of-Concept (PoC) -- Executive Case Study
 
 
 **Overview**
