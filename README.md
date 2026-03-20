@@ -1,4 +1,4 @@
-# AI-IoT-Automobiles--> Proof of Concept (PoC) -- Executive Case Study
+# AI-IoT-Automobiles--> Proof of Concept (PoC) - Executive Case Study
 
 <img width="1536" height="1024" alt="AI and IoT in automobiles case study" src="https://github.com/user-attachments/assets/ea195e22-fdbd-408b-bb70-1d5bcbc8f052" />
 <br>
